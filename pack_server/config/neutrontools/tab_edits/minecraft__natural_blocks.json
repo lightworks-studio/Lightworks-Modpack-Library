@@ -50,7 +50,7 @@
       },
       {
         "match_tags": [
-          "forge:ores"
+          "c:ores"
         ],
         "hide_old_tab": true,
         "index": 56

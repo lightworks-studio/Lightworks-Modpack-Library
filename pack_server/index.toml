@@ -606,7 +606,7 @@ hash = "f2f92452732e466b77da8cf21728b94dafa9e69068912add2e040b428afc1eeb"
 
 [[files]]
 file = "config/neutrontools/disabled_items.json"
-hash = "1caaaf25c287ec390d04946a59db52962caf1379d70f201cf9156be7baf43c15"
+hash = "49f9449c646fe4dda262c29245297c0e5bfeaa3764c5d551eabdb66b33ee1e09"
 
 [[files]]
 file = "config/neutrontools/disabled_tabs.json"
@@ -641,16 +641,12 @@ file = "config/neutrontools/new_tabs/gadgets_and_utilities.json"
 hash = "30898cf0b72a3add558c94dfc7d560ace7e13a9c1ba720f4ec1b43ed69de35a8"
 
 [[files]]
-file = "config/neutrontools/new_tabs/ores_and_materials.json"
-hash = "1eda4433e1b6da27521b7d196379465100331d1a5c8c0104fe58707b1b023f32"
-
-[[files]]
 file = "config/neutrontools/new_tabs/stone_and_masonry.json"
 hash = "d468bd727826ccc8374605541cc636219f88f3bef42b8552e395f30f088020ad"
 
 [[files]]
 file = "config/neutrontools/ordered_tabs.json"
-hash = "08a30f75f6149f4aa0462caec1ddadb06c2d4e3eb7232d1dc19323d9ba087cb7"
+hash = "68aad7e8269f49a3d0c86bc72c5b1f97d0455b5bdc4a8acdc374dd683d3296b7"
 
 [[files]]
 file = "config/neutrontools/packs_optional/resource_packs/Deep Grass.zip"
@@ -14586,7 +14582,7 @@ hash = "0801c2f33e159fd0f4aedfe2a367a377f246d36ec990d677326fb13810aaf8e6"
 
 [[files]]
 file = "config/neutrontools/tab_edits/cooking.json"
-hash = "150768e267b1cb53ab30bee9972cb5ddb64a489a3cdeb32ceac6d3ce03c573cf"
+hash = "2443202ff8cfb459ae5651bf506dfb7be0df1f13af012d319ae580cb64501443"
 
 [[files]]
 file = "config/neutrontools/tab_edits/create__base.json"
@@ -14642,7 +14638,7 @@ hash = "cc4700b6f93b42c63139c767a2f8b9f3b9b7de75e86f590ea3a59079e7a2d838"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__natural_blocks.json"
-hash = "8053b9dba7e3401adced3ebad8cfc79d1de9e370c0402cfa9b6e703890698406"
+hash = "56533053967e96ee3326f4dd616ecd32ded42b311a36e0dafe03c939bc202cdc"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__op_blockss.json"
@@ -14687,6 +14683,10 @@ hash = "08ca88c419dd71fa47d974cca41dcf19791fb5b763d5adc0d167fc1a171195f5"
 [[files]]
 file = "config/neutrontools/unbreakable_items.json"
 hash = "4bff8ff95868bc70dc6db2b171940997524b9af97307df36c53cc6bd853f6aaa"
+
+[[files]]
+file = "config/neutrontools/unused_tabs/ores_and_materials.json"
+hash = "1eda4433e1b6da27521b7d196379465100331d1a5c8c0104fe58707b1b023f32"
 
 [[files]]
 file = "config/northstar-client.toml"
@@ -15712,7 +15712,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaky.pw.toml"
-hash = "b9628eef601e660bad93565328d41d1d16eb18687d7d5143d455fe87ad0fe590"
+hash = "2aa1bd63fd6c159758fa1a5b297f490f54ab216742244af89fabb40ebf59c97e"
 metafile = true
 
 [[files]]

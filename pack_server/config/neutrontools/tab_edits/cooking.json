@@ -7,11 +7,16 @@
     "items_to_add": [
       {
         "match_name": "farmersdelight:.*"
+      },
+      {
+        "match_tags": [
+          "c:food"
+        ]
       }
     ],
     "items_to_remove": [
       {
-        "match_name": "farmersdelight:.*(net|rug|mat|cabinet|rope|canvas|sign|tatami).*"
+        "match_name": ".*(net|rug|mat|rope|canvas|sign|tatami).*"
       }
     ]
   }
