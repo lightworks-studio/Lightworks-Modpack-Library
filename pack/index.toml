@@ -606,7 +606,7 @@ hash = "f2f92452732e466b77da8cf21728b94dafa9e69068912add2e040b428afc1eeb"
 
 [[files]]
 file = "config/neutrontools/disabled_items.json"
-hash = "49f9449c646fe4dda262c29245297c0e5bfeaa3764c5d551eabdb66b33ee1e09"
+hash = "76c796f13e02844be34a1837d389b29356e56c96bcf638f6491924dad8812da1"
 
 [[files]]
 file = "config/neutrontools/disabled_tabs.json"
@@ -659,6 +659,10 @@ hash = "50f33c6cabad069e11f03a7a0401366ad4d6db0ada59964858344cff2e8ea4c4"
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/aeronautics/tags/block/airtight.json"
 hash = "812357e84a85786b7b5b205006f401e7725ce999a7e3231f73a258f2bd7a92af"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/astral/recipe/nether_heart.json"
+hash = "30744022e9b9494d55950f7a69800e627c66302c630b0cfcad53f7ad603b5300"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/create/recipe/copper_diving_helmet.json"
@@ -962,7 +966,7 @@ hash = "a112bf339b47ad0585e68ff2285c14991d0ee857fd55acf9b4d1f739c77171da"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/neutrontools/loot_table/the_leviathan.json"
-hash = "8ffdae3ca198c1369bcd003119d35e18a29a12eb516abd95c5d841eceffa7269"
+hash = "7f00760688a554270caeba9af9f9f247c7917816d7d8e0ee7f5be8b05bd04334"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/neutrontools/recipe/abyssal_dust.json"
@@ -9750,7 +9754,7 @@ hash = "7be7a195ce43c673cb928c34fcfddf6888d5e758dac0a432d3335771b2005550"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/blank_scroll.json"
-hash = "2bf7a08ca4395e1a3100493dcfecf289062749c6759c2a0ee425b7a8542f8d17"
+hash = "5895a3c9b30ff7562ca3d7c591554f5eb1bd65ac169df4211b99f6e760c078f6"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/blue_portstone.json"
@@ -9795,6 +9799,10 @@ hash = "1d20878e4ff096b487f8332fd648fd5d9ecd076bcea5277138ca92dfdb716b97"
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/deepslate_waystone.json"
 hash = "f6603d68aded65d7e5942354180f5a6e0ad1f19d3e351045105c0112e0443e27"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/dormant_shard.json"
+hash = "4bb5817a95e068affea3108fc3b490ff5ea496816393ff2ebe90bd34d1d0184a"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/end_stone_waystone.json"
@@ -9985,12 +9993,36 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/r
 hash = "e0337a169d07b624fab37f20d014afc87c3ef0e08cfac8ab71ee1c5c86474896"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/slate_portstone.json"
+hash = "b4d19102a20636bda324afe02f49c5e65aa2abedf1f57811715c097965c849f0"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/slate_sharestone.json"
+hash = "69378d75423a4d6f3065297eac9f0084528c1bbc52e945d539bdbd073cf8fc38"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/tan_portstone.json"
+hash = "2b179cc879ab8f9808a2fe68f45aa397b420a7f9ee95b2367b1baa510c6eebeb"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/tan_sharestone.json"
+hash = "29642980656ac8a4af7c01424784bf591c46c0c8373d1b862c0c451888037036"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/teal_portstone.json"
 hash = "f0b59f84c8811ec4bcaae822eac4b80ceac504b054e87feec555f6b3e6a27831"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/teal_sharestone.json"
 hash = "7ef2334882590bc49041feb31e5a02519d17addca31c56d4c48d856b9b4fa503"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/verdant_portstone.json"
+hash = "fca64f2780c597f1afce510b6f6c83ab74b622f2937154c29a51736bf584eb97"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/verdant_sharestone.json"
+hash = "8c700d7d02b7fda88b19a62ff5cd98a808e1cf3633c66018557b44a1c40e57a7"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/vermilion_portstone.json"
@@ -10034,7 +10066,7 @@ hash = "1109a7979b7ff50b230ab75c41e6adb5e2e5e074d78fc29e89869ae70131fe68"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipes.py"
-hash = "666d231220e28c00016abd643fa9955fa89b52aee699e56fc9222eaba609b6d8"
+hash = "f7c1070efe781d8805afa53bce95f309c72fb5b4c0425512e1e8c2bfe4e8ebd3"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/pack.mcmeta"
@@ -14549,20 +14581,8 @@ file = "config/neutrontools/readme.txt"
 hash = "8439bad6fdc1dc157f98b93ef37b856d4d5c03f582764c69201ac12c3a544747"
 
 [[files]]
-file = "config/neutrontools/registry/items/abyssal_dust.json"
-hash = "2622dc9cd8342cf8ab003c9d1ae4184882223c0af373d852200a6771221eb7b3"
-
-[[files]]
-file = "config/neutrontools/registry/items/abyssal_ingot.json"
-hash = "c483b6fd6cf18d040d4b3cd1c868f383e6a1343d8ea1e28a45e4f76d46ded406"
-
-[[files]]
 file = "config/neutrontools/registry/items/heat_tile.json"
 hash = "aa49476cb8da86fd1c8914019e439b4eb72d2d591d5cb2b886cee2f6e0232498"
-
-[[files]]
-file = "config/neutrontools/registry/items/hydronite_shard.json"
-hash = "cbcfbd54d46a00b7bba8b373cba7010737f3e14f23b669944cd007ecc936df78"
 
 [[files]]
 file = "config/neutrontools/registry/items/monstrous_dust.json"
@@ -14577,12 +14597,24 @@ file = "config/neutrontools/registry/items/void_pearl.json"
 hash = "742a6117caba2f86ba977497e9b712ab057de71cc4f129bc442846ea63727566"
 
 [[files]]
+file = "config/neutrontools/registry/unused/abyssal_dust.json"
+hash = "2622dc9cd8342cf8ab003c9d1ae4184882223c0af373d852200a6771221eb7b3"
+
+[[files]]
+file = "config/neutrontools/registry/unused/abyssal_ingot.json"
+hash = "c483b6fd6cf18d040d4b3cd1c868f383e6a1343d8ea1e28a45e4f76d46ded406"
+
+[[files]]
+file = "config/neutrontools/registry/unused/hydronite_shard.json"
+hash = "cbcfbd54d46a00b7bba8b373cba7010737f3e14f23b669944cd007ecc936df78"
+
+[[files]]
 file = "config/neutrontools/tab_edits/bosses.json"
 hash = "0801c2f33e159fd0f4aedfe2a367a377f246d36ec990d677326fb13810aaf8e6"
 
 [[files]]
 file = "config/neutrontools/tab_edits/cooking.json"
-hash = "2443202ff8cfb459ae5651bf506dfb7be0df1f13af012d319ae580cb64501443"
+hash = "85d8d08e87d244fd9a3556d236ba23195c9505f7661444e8707080acf1d32d9e"
 
 [[files]]
 file = "config/neutrontools/tab_edits/create__base.json"
@@ -15515,12 +15547,17 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
+hash = "fc8954e0d3fa66b917d2c84ee04d07b073a9eb6f719d09e1ff85527c1d61a10e"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "97c1ad521ac48aaf6c07a54339dc94ba400df670ec5d98f3d81d14bd728586e4"
 metafile = true
 
 [[files]]
@@ -15530,7 +15567,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "6867922a8ccface85edc8df2268e4996c6ab6867b9da34258b6bf6efc0bc2efa"
+hash = "c7f9286eabbfd298a73a92dc91031a27a8551a7cda8656f2173a4ba8cc0ac1a2"
 metafile = true
 
 [[files]]
@@ -15600,7 +15637,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "63d1560de24b53cad7052d19c1a44b4eab64ad9f696d01c9f2a72fccd5540557"
+hash = "301d380fd94d19d979d9fa118bbf86481e7f7092b0c97136bc01af9b6b6c59af"
 metafile = true
 
 [[files]]
@@ -15635,7 +15672,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d173124cbe77b9b97005675ba13ac2868bade78186de21ec2876a6726d5d3f81"
+hash = "da13f3c6f0ae14645c29ee2049304917b77a3f74a26374511ccf3dacfcead254"
 metafile = true
 
 [[files]]
@@ -15665,7 +15702,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "e3c62164f1eed254aa04629bce3d62b34a65bf15801d2ffb1bf1373a0b97c544"
+hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
 metafile = true
 
 [[files]]
@@ -15695,7 +15732,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5de13daf3c8393bbc68c7b4cddd13330b3b70bcc32553a1b28edd99bab7f9e23"
+hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
 metafile = true
 
 [[files]]
@@ -15725,7 +15762,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
+hash = "e3003f83463910a682f3ea1c419f850fed7bc2c6ff4831144db11228b98e2fb4"
 metafile = true
 
 [[files]]
@@ -15755,7 +15792,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+hash = "00c1f4daa049500e6aca53a746fbc9d53578131dae2171418e780442f7c72a2d"
 metafile = true
 
 [[files]]
@@ -15795,12 +15832,12 @@ metafile = true
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
-hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+hash = "4faf76c8ebe0d8a863576ea66f0efcd8a571f0cf6edc0faa763f6ad2f077dd3f"
 metafile = true
 
 [[files]]
 file = "mods/sky-archipelago.pw.toml"
-hash = "b23e69ff246ad887b40d5bb58a325eee626681816273920be490903e02cf056d"
+hash = "43af796df15749326513ad69bf3720d7e183d8b99af5e9399c8f89f728127286"
 metafile = true
 
 [[files]]

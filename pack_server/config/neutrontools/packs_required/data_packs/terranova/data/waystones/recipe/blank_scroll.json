@@ -3,10 +3,10 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "neutrontools:void_core_dust"
+      "item": "neutrontools:void_dust"
     },
     {
-      "item": "waystones:warp_dust"
+      "item": "minecraft:paper"
     },
     {
       "item": "minecraft:paper"

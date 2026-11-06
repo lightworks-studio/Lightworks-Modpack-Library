@@ -2,12 +2,8 @@
   "type": "minecraft:entity",
   "pools": [
     {
-      "rolls": 8,
+      "rolls": 0,
       "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "neutrontools:abyssal_ingot"
-        }
       ]
     }
   ]

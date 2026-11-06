@@ -115,7 +115,6 @@
     "create_connected:shear_pin",
     "create_connected:cross_connector",
     "create_connected:control_chip",
-    "create_connected:centrifugal_clutch",
     "supplementaries:slingshot",
     "terranova:abyssal_pearl",
     "terranova:cursium_pearl",
@@ -212,6 +211,8 @@
     "railways:tan_conductor_cap",
     "railways:teal_conductor_cap",
     "railways:verdant_conductor_cap",
-    "farmersdelight:debug_pumpkin_pie"
+    "farmersdelight:debug_pumpkin_pie",
+    "waystones:warp_stone",
+    "waystones:warp_dust"
   ]
 }

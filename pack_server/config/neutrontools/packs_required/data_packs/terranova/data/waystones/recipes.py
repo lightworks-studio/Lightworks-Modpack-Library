@@ -12,8 +12,8 @@ VANILLA_DYES = [
 
 # Dye Depot Dyes (namespace: "dye_depot")
 DYE_DEPOT_DYES = [
-    "amber", "aqua", "beige", "burgundy", "coral", "forest", "ginger", "indigo",
-    "maroon", "mint", "navy", "olive", "peach", "rose", "teal", "vermilion"
+    "amber", "aqua", "beige", "burgundy", "coral", "forest", "ginger", "indigo", "tan",
+    "maroon", "mint", "navy", "olive", "peach", "rose", "teal", "vermilion", "slate", "verdant"
 ]
 
 
