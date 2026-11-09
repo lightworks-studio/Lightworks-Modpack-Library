@@ -1,13 +1,13 @@
 name = "Create Kinetic"
-filename = "createkinetic-1.4.3.jar"
+filename = "createkinetic-1.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E4S14KY0/versions/64mBDRKW/createkinetic-1.4.3.jar"
+url = "https://cdn.modrinth.com/data/E4S14KY0/versions/ANNMxbkR/createkinetic-1.4.4.jar"
 hash-format = "sha512"
-hash = "5f20002a7106684451201e35d49b1306e80e87095a76dd036d24dbc2b424f44af1fd100f75e00900452ecd4ea783d2257e22e04409ca387e0ec6317d1ac43c5a"
+hash = "f965c1276fac01c5767850fa7177bb5007b15cafb1e0d707f4521376c51d2c5956a8cb51cdbe101f95b5eb594ee3640b6820ac8fc1a2013e7ec60bbeb1a7ddb1"
 
 [update]
 [update.modrinth]
 mod-id = "E4S14KY0"
-version = "64mBDRKW"
+version = "ANNMxbkR"

@@ -7,5 +7,4 @@ cd ../
 
 ./build-server.sh
 
-java -jar packInstaller.jar -s ./minecraft -r -u ./pack/pack.toml
-echo "Sync complete!"
+#java -jar packInstaller.jar -s ./minecraft -r -u ./pack/pack.toml
