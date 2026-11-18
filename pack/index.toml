@@ -15537,7 +15537,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
 metafile = true
 
 [[files]]
@@ -15606,11 +15606,6 @@ hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
 metafile = true
 
 [[files]]
-file = "mods/create-kinetic.pw.toml"
-hash = "3d23940264d42d94c16fd04f08550d48421fe5d180baad497aa0f3654747674b"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
@@ -15631,13 +15626,17 @@ hash = "e5052e0fcba9af1e3c6c0734829b441bc5a23012108bf203ca01825ca12ff6b1"
 metafile = true
 
 [[files]]
+file = "mods/createkinetic-1.4.4.jar"
+hash = "cc3d48b14012a08d153ce2b26315870509fad129928424ea101ebc605ef70b72"
+
+[[files]]
 file = "mods/creative-mode-tweaks.pw.toml"
-hash = "3a66d34b5c90ff01798ef00e3f36440ca1fb3a43a1547ed35a31c7e9e51a95f8"
+hash = "94ce197469d1eb35d67a935045f8c4d1d228b04a404dd1f511a4229afccb7a23"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "301d380fd94d19d979d9fa118bbf86481e7f7092b0c97136bc01af9b6b6c59af"
+hash = "37aa8d7a4fc96de58a912a57708a341b6c1822aa9c1d2c713a2166c76c27d73d"
 metafile = true
 
 [[files]]
@@ -15672,7 +15671,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "da13f3c6f0ae14645c29ee2049304917b77a3f74a26374511ccf3dacfcead254"
+hash = "b1beeafce95e233dc631a3f3dfc520c313a2ee1fd6760b64f006380a03cbcf72"
 metafile = true
 
 [[files]]
@@ -15737,7 +15736,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
 metafile = true
 
 [[files]]
@@ -15792,7 +15791,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "00c1f4daa049500e6aca53a746fbc9d53578131dae2171418e780442f7c72a2d"
+hash = "79c3af7dc622ba501f8bd3a1a5ea7d582c62f85edc16c6365cf09ea70e244a28"
 metafile = true
 
 [[files]]
@@ -15832,7 +15831,7 @@ metafile = true
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
-hash = "4faf76c8ebe0d8a863576ea66f0efcd8a571f0cf6edc0faa763f6ad2f077dd3f"
+hash = "919deaa10fc414f61ffe85af18100cbd169e1535b6a822eddb18ed19b5cbacf2"
 metafile = true
 
 [[files]]
@@ -15852,7 +15851,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
+hash = "68f3056f4389704e386dd4c592a5cd9251fede39d9c022820442b9559b98e51b"
 metafile = true
 
 [[files]]
@@ -15862,7 +15861,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
+hash = "870219130f6ab3005d0ed77ff73070074bd2780f09ef67f57d5d9a2199b40e9f"
 metafile = true
 
 [[files]]
