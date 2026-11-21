@@ -15627,7 +15627,7 @@ metafile = true
 
 [[files]]
 file = "mods/createkinetic-1.4.4.jar"
-hash = "cc3d48b14012a08d153ce2b26315870509fad129928424ea101ebc605ef70b72"
+hash = "f3d8cd0c9d25c630f2151abe8829b0b8872e97bdef534c773995681d29fc2d39"
 
 [[files]]
 file = "mods/creative-mode-tweaks.pw.toml"
