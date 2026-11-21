@@ -217,6 +217,10 @@ file = "config/createkinetic-common.toml"
 hash = "a1ee7fb0654a3109a5211e9a439403d960ce0186a2923678de26162e98a4a357"
 
 [[files]]
+file = "config/createkinetic-startup.toml"
+hash = "7b71de784da5b8ca0aebf18abb8066e2e98ef4085c09fd9261dcbb56561d2749"
+
+[[files]]
 file = "config/cumulus_menus-client.toml"
 hash = "9f25ef18d252a46fcc8caf9f98a801cbe83c2ad0d6b7fa38aaae152df7139c15"
 

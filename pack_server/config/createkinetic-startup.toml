@@ -1,0 +1,6 @@
+# Create Kinetic early startup config.
+# Loaded before mod registration. Restart required for changes.
+
+# Register ion-powered thrusters (ion_thruster, vector_thruster).
+registerIonThrusters = false
+
