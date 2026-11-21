@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "astral:nether_heart"
+  },
+  "base": {
+    "item": "astral:netherite_shield"
+  },
+  "addition": {
+    "item": "minecraft:magma_block"
+  },
+  "result": {
+    "id": "astral:infernal_shield",
+    "count": 1
+  }
+}

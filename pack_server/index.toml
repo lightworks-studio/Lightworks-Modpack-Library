@@ -661,6 +661,10 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/aeronautics
 hash = "812357e84a85786b7b5b205006f401e7725ce999a7e3231f73a258f2bd7a92af"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/astral/recipe/infernal_shield2.json"
+hash = "a88ab92ce144cd445c77f907656d2b14b7794f97aab2903a3f93eb58fb858138"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/astral/recipe/nether_heart.json"
 hash = "30744022e9b9494d55950f7a69800e627c66302c630b0cfcad53f7ad603b5300"
 
@@ -15633,8 +15637,8 @@ hash = "e5052e0fcba9af1e3c6c0734829b441bc5a23012108bf203ca01825ca12ff6b1"
 metafile = true
 
 [[files]]
-file = "mods/createkinetic-1.5.0b.jar"
-hash = "e97b462390f44348c857ccd896133cf5a4702b99cf9fcc0eea9899fdeae66208"
+file = "mods/createkinetic-1.6.0b.jar"
+hash = "d9d0dea37c44e40a1b0a94d2b9fbb932c4eb35d514c03453a9ceb85f9c7c5439"
 
 [[files]]
 file = "mods/creative-mode-tweaks.pw.toml"
