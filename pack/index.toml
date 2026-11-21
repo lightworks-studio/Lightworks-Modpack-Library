@@ -606,7 +606,7 @@ hash = "f2f92452732e466b77da8cf21728b94dafa9e69068912add2e040b428afc1eeb"
 
 [[files]]
 file = "config/neutrontools/disabled_items.json"
-hash = "8a5cf4208cd510206da4b1885c15584f079c337b487768295e4100b533fe44e2"
+hash = "76c796f13e02844be34a1837d389b29356e56c96bcf638f6491924dad8812da1"
 
 [[files]]
 file = "config/neutrontools/disabled_tabs.json"
@@ -15626,8 +15626,8 @@ hash = "e5052e0fcba9af1e3c6c0734829b441bc5a23012108bf203ca01825ca12ff6b1"
 metafile = true
 
 [[files]]
-file = "mods/createkinetic-1.4.4.jar"
-hash = "0371f103aec5b754bc123e7ee3899d96b82e0aac2a41507b5bc8c7e039db21ac"
+file = "mods/createkinetic-1.5.0b.jar"
+hash = "e97b462390f44348c857ccd896133cf5a4702b99cf9fcc0eea9899fdeae66208"
 
 [[files]]
 file = "mods/creative-mode-tweaks.pw.toml"
