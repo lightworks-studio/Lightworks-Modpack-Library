@@ -213,6 +213,10 @@
     "railways:verdant_conductor_cap",
     "farmersdelight:debug_pumpkin_pie",
     "waystones:warp_stone",
-    "waystones:warp_dust"
+    "waystones:warp_dust",
+    "createkinetic:creative_thruster",
+    "createkinetic:creative_vector_thruster",
+    "createkinetic:ion_thruster",
+    "createkinetic:vector_thruster"
   ]
 }
